@@ -1,6 +1,6 @@
 # **Zákoník San Andreas**
 
-#### **Platný státní zákoník San Andreas od 14. 8. 2022.**
+#### **Platný státní zákoník San Andreas od 19. 2. 2026.**
 
 ---
 
