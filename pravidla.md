@@ -2,7 +2,7 @@
 # Pravidla Roleplay
 
 
-**Semi Whitelist** 
+**INFO O WL** 
 
 -> Náš server běží na způsob WL což znamená že **každý hráč musí projít whitelist formulářem aby se mohl připojit na server**.
 
