@@ -1,9 +1,9 @@
 
 # Pravidla Roleplay
 
-{% hint style="info" %}
-**Semi Whitelist** - Náš server běží na způsob Semi-WL což znamená že **každý hráč musí projít whitelist pohovorem proto aby se mohl přidat do nějaké frakce** jinak se k nám připojí každý.
-{% endhint %}
+
+**Semi Whitelist** - Náš server běží na způsob WL což znamená že **každý hráč musí projít whitelist formulářem aby se mohl připojit na server**.
+
 
 ## Roleplay
 
