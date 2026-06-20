@@ -1,5 +1,4 @@
 # MDT TUTORIAL
-*Z TROR MDT 2.0*
 
 ## Otevření MDT
 
